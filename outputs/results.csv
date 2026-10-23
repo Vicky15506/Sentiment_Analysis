@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1
+Multinomial Naive Bayes,0.66,0.6652,0.66,0.6618
+Logistic Regression,0.67,0.6734,0.67,0.6712
+Linear SVM,0.6617,0.6601,0.6617,0.6607
+Logistic Regression (Tuned + Balanced),0.6767,0.6787,0.6767,0.6772
